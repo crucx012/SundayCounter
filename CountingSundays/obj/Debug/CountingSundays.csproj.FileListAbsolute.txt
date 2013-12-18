@@ -1,0 +1,10 @@
+C:\Users\jgalyen\Documents\Visual Studio 2013\Projects\CountingSundays\CountingSundays\bin\Debug\CountingSundays.dll
+C:\Users\jgalyen\Documents\Visual Studio 2013\Projects\CountingSundays\CountingSundays\bin\Debug\CountingSundays.pdb
+C:\Users\jgalyen\Documents\Visual Studio 2013\Projects\CountingSundays\CountingSundays\obj\Debug\CountingSundays.csprojResolveAssemblyReference.cache
+C:\Users\jgalyen\Documents\Visual Studio 2013\Projects\CountingSundays\CountingSundays\obj\Debug\CountingSundays.dll
+C:\Users\jgalyen\Documents\Visual Studio 2013\Projects\CountingSundays\CountingSundays\obj\Debug\CountingSundays.pdb
+C:\Users\wblack\Documents\Visual Studio 2012\Projects\CountingSundays\CountingSundays\bin\Debug\CountingSundays.dll
+C:\Users\wblack\Documents\Visual Studio 2012\Projects\CountingSundays\CountingSundays\bin\Debug\CountingSundays.pdb
+C:\Users\wblack\Documents\Visual Studio 2012\Projects\CountingSundays\CountingSundays\obj\Debug\CountingSundays.csprojResolveAssemblyReference.cache
+C:\Users\wblack\Documents\Visual Studio 2012\Projects\CountingSundays\CountingSundays\obj\Debug\CountingSundays.dll
+C:\Users\wblack\Documents\Visual Studio 2012\Projects\CountingSundays\CountingSundays\obj\Debug\CountingSundays.pdb

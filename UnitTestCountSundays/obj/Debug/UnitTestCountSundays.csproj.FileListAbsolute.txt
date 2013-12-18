@@ -1,0 +1,14 @@
+C:\Users\jgalyen\Documents\Visual Studio 2013\Projects\CountingSundays\UnitTestCountSundays\bin\Debug\UnitTestCountSundays.dll
+C:\Users\jgalyen\Documents\Visual Studio 2013\Projects\CountingSundays\UnitTestCountSundays\bin\Debug\UnitTestCountSundays.pdb
+C:\Users\jgalyen\Documents\Visual Studio 2013\Projects\CountingSundays\UnitTestCountSundays\obj\Debug\UnitTestCountSundays.csprojResolveAssemblyReference.cache
+C:\Users\jgalyen\Documents\Visual Studio 2013\Projects\CountingSundays\UnitTestCountSundays\obj\Debug\UnitTestCountSundays.dll
+C:\Users\jgalyen\Documents\Visual Studio 2013\Projects\CountingSundays\UnitTestCountSundays\obj\Debug\UnitTestCountSundays.pdb
+C:\Users\jgalyen\Documents\Visual Studio 2013\Projects\CountingSundays\UnitTestCountSundays\bin\Debug\CountingSundays.dll
+C:\Users\jgalyen\Documents\Visual Studio 2013\Projects\CountingSundays\UnitTestCountSundays\bin\Debug\CountingSundays.pdb
+C:\Users\wblack\Documents\Visual Studio 2012\Projects\CountingSundays\UnitTestCountSundays\bin\Debug\UnitTestCountSundays.dll
+C:\Users\wblack\Documents\Visual Studio 2012\Projects\CountingSundays\UnitTestCountSundays\bin\Debug\UnitTestCountSundays.pdb
+C:\Users\wblack\Documents\Visual Studio 2012\Projects\CountingSundays\UnitTestCountSundays\bin\Debug\CountingSundays.dll
+C:\Users\wblack\Documents\Visual Studio 2012\Projects\CountingSundays\UnitTestCountSundays\bin\Debug\CountingSundays.pdb
+C:\Users\wblack\Documents\Visual Studio 2012\Projects\CountingSundays\UnitTestCountSundays\obj\Debug\UnitTestCountSundays.csprojResolveAssemblyReference.cache
+C:\Users\wblack\Documents\Visual Studio 2012\Projects\CountingSundays\UnitTestCountSundays\obj\Debug\UnitTestCountSundays.dll
+C:\Users\wblack\Documents\Visual Studio 2012\Projects\CountingSundays\UnitTestCountSundays\obj\Debug\UnitTestCountSundays.pdb
